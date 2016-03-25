@@ -5,4 +5,4 @@ How to run: <br>
 2.open your terminal from your beagle bone black,change your directory to the particular folder where you saved your files. <br>
 (note:make sure to connect your traffic simulation kit onto the beagle bone's cape). <br>
 3.type in "python traffic.py" onto your terminal. <br>
-(note:depending on your kit,the pin configuration might change.So,you might want to refer your kit manual for pin configuration)
+(note:depending on your kit,the pin configuration might change.So,you might want to refer your kit manual for pin configuration.Pin configuration of this kit is given in traffic_sim.png)
